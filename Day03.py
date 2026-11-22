@@ -77,3 +77,5 @@ print(tup.count(1))
 
 
 
+
+
