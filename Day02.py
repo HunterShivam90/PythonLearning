@@ -53,6 +53,16 @@ print(s.find("coder")) # returns 1st index of 1st occurrence (syntax: s.find(wor
 print(s.count("am")) # counts the occurrence of substr in string
 
 
+light = "yellow"
+
+if light == "red":
+    print("Stop")
+elif light == "yellow":
+    print("Look")
+elif light == "green":
+    print("Go")
+else:
+    print("Light is broken")
 
 
 
