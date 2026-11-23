@@ -60,7 +60,7 @@ if light == "red":
 elif light == "yellow":
     print("Look")
 elif light == "green":
-    print("Go")
+    print("GO")
 else:
     print("Light is broken")
 
