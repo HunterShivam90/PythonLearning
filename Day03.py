@@ -32,7 +32,9 @@ print(nums)
 nums.sort(reverse=True)
 print(nums)
 
-nums = [2, 1, 3]
+
+
+nums = [2, 1, 4]
 nums.reverse()
 print(nums)
 
